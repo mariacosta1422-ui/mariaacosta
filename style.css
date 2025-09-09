@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 18px;
-    background-image: url(images/eto.jfif);
+    background-image: url(images/eto.jpg);
     background-size: center;
     background-attachment: fixed;
     color: #222;
@@ -103,7 +103,7 @@ th {
     color: rgb(25, 18, 18); 
 }
 #picture {
-  text-align: center; /* lahat ng nasa loob nito ay nasa gitna */
+  text-align: center;
   margin: 20px 0;
   overflow: hidden;
  
@@ -117,10 +117,10 @@ th {
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 .gallery {
-  display: flex;              /* para magkatabi  */
-  justify-content: center;    /* gitna horizontally */
-  gap: 30px;                  /* space sa pagitan ng dalawang image */
-  flex-wrap: wrap;            /* para bumaba*/
+  display: flex;              
+  justify-content: center;    
+  gap: 30px;                  
+  flex-wrap: wrap;            
 
 }
 .caption {
@@ -135,4 +135,5 @@ footer {
     background: rgba(112, 83, 102);
     color: white;
     margin-top: 20px;
+
 }
