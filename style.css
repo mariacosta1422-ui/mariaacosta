@@ -6,7 +6,6 @@ body {
     background-image: url("eto.jpg"); 
     background-size: contain;
     background-position: center;
-    background-attachment: fixed;
     color: #222;
     scroll-behavior: smooth;
     box-sizing: border-box;
@@ -141,6 +140,7 @@ footer {
     margin-top: 20px;
 
 }
+
 
 
 
