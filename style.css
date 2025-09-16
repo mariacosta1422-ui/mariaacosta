@@ -4,10 +4,13 @@ body {
     font-size: 18px;
     background-image: url (eto.jpg);
     background-size: cover;
+    background-position: center;
     background-attachment: fixed;
     color: #222;
     scroll-behavior: smooth;
     box-sizing: border-box;
+    background-repeat: no-repeat;
+    
     
 }
 
@@ -137,6 +140,7 @@ footer {
     margin-top: 20px;
 
 }
+
 
 
 
