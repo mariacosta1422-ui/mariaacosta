@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 18px;
-    background-image: url (eto.jpg);
+    background-color: pink; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -140,6 +140,7 @@ footer {
     margin-top: 20px;
 
 }
+
 
 
 
