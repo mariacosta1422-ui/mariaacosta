@@ -9,7 +9,7 @@ body {
     color: #222;
     scroll-behavior: smooth;
     box-sizing: border-box;
-    background-repeat: no-repeat;
+    background-attachment: fixed;
     
     
 }
@@ -140,6 +140,7 @@ footer {
     margin-top: 20px;
 
 }
+
 
 
 
