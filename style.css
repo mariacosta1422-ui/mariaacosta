@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 18px;
-    background-image: url(eto.jpg);
+    background-image: eto.jpg;
     background-size: center;
     background-attachment: fixed;
     color: #222;
@@ -137,4 +137,5 @@ footer {
     margin-top: 20px;
 
 }
+
 
